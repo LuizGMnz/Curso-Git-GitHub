@@ -29,12 +29,6 @@ Lista demarcada:
 * CSS
 * JavaScript
 
-Lista de tarefas:
-
--[] Estudar para a prova
--[] Ler Clean Code
--[] Enviar currículo
-
 Link:
 
 [Acesse meu GitHub] (https://github.com/LuizGMnz)
