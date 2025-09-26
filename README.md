@@ -31,9 +31,9 @@ Lista demarcada:
 
 Lista de tarefas:
 
-- [] Estudar para a prova
-- [] Ler Clean Code
-- [] Enviar currículo
+-[] Estudar para a prova
+-[] Ler Clean Code
+-[] Enviar currículo
 
 Link:
 
